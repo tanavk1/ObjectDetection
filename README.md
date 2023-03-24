@@ -15,3 +15,22 @@ Change
 
 <img src="https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=904&q=80"
  width="200" height="200">
+ 
+ 
+ 
+ 
+ Test picture of a City:
+ 
+ Image: 
+ 
+
+<img src="https://cdn.vox-cdn.com/thumbor/CRqJoRaVIKgea8ySXvbzJm19n7A=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13335435/NorthBroadSt_Landscape_1_M.Edlow.jpg"
+ width="200" height="200">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
