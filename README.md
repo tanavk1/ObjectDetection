@@ -1,7 +1,7 @@
 # Object Detection
 Object Detection submission for AI/ML Club
 
-This uses Numpy, TensorFlow, OpenCV, Keras and [VGG16](https://keras.io/api/applications/vgg/). This was created in ![deepnote](https://deepnote.com/workspace/tanavk1-606342fd-066c-475f-b6d9-7eccb3b267c7/project/Object-Detection-Duplicate-418a547e-1b24-4507-abd7-ccb680d46031/notebook/Object%20Detection-b4ff0dcf19c841dcb40d70adca5f3552)
+This uses Numpy, TensorFlow, OpenCV, Keras and [VGG16](https://keras.io/api/applications/vgg/). This was created in [deepnote](https://deepnote.com/workspace/tanavk1-606342fd-066c-475f-b6d9-7eccb3b267c7/project/Object-Detection-Duplicate-418a547e-1b24-4507-abd7-ccb680d46031/notebook/Object%20Detection-b4ff0dcf19c841dcb40d70adca5f3552)
 
 
 Change 
